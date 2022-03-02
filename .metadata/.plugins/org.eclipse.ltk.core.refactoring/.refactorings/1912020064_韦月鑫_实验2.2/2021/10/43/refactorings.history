@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;webapp&apos;&#x0D;&#x0A;- Original project: &apos;1912020064_韦月鑫_实验2.2&apos;&#x0D;&#x0A;- Destination element: &apos;webapp&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     js&#x0D;&#x0A;     css" description="Copy folders" element1="src/main/webapp/js" element2="src/main/webapp/css" files="0" flags="589830" folders="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1634481499838" target="/1912020064_韦月鑫_实验3/src/main/webapp" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,102 @@
+
+10月 05, 2021 10:02:38.565 NEW SESSION
+10月 05, 2021 10:02:38.565 [4516:3420:1005/100238.563:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+10月 05, 2021 10:02:38.565 [4516:3420:1005/100238.563:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+10月 05, 2021 10:02:38.565 [4516:3420:1005/100238.564:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+10月 05, 2021 10:02:38.568 [4516:3420:1005/100238.568:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+10月 05, 2021 10:02:38.580 [4516:13728:1005/100238.580:ERROR:device_event_log_impl.cc(214)] [10:02:38.580] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 连到系统上的设备没有发挥作用。 (0x1F)
+10月 05, 2021 10:02:38.580 [4516:13728:1005/100238.580:ERROR:device_event_log_impl.cc(214)] [10:02:38.580] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 连到系统上的设备没有发挥作用。 (0x1F)
+10月 05, 2021 10:03:00.684 [4516:12820:1005/100300.683:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 05, 2021 10:03:42.470 [4516:12820:1005/100342.470:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 05, 2021 10:05:03.625 [4516:12820:1005/100503.625:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 05, 2021 10:05:28.551 [4516:12820:1005/100528.551:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:05:28.568 [4516:12820:1005/100528.567:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:05:28.569 [4516:12820:1005/100528.567:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:05:28.582 [4516:12820:1005/100528.582:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:06:58.843 [4516:12820:1005/100658.842:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 05, 2021 10:08:39.893 [4516:12820:1005/100839.893:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:08:40.147 [4516:12820:1005/100840.147:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:08:40.192 [4516:12820:1005/100840.191:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:08:43.494 [4516:12820:1005/100843.493:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:12:18.603 [4516:12820:1005/101218.603:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:12:19.588 [4516:12820:1005/101219.587:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:12:23.89 [4516:12820:1005/101223.088:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:12:26.12 [4516:12820:1005/101226.011:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:15:47.198 [4516:12820:1005/101547.197:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:15:55.445 [4516:12820:1005/101555.445:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:16:09.562 [4516:13728:1005/101609.562:ERROR:CONSOLE(1579)] "Uncaught (in promise) #<Object>", source: chrome-extension://nnnkddnnlpamobajfibfdgfnbcnkgngh/16.js (1579)
+10月 05, 2021 10:16:19.633 [4516:12820:1005/101619.632:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:16:22.179 [4516:12820:1005/101622.179:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:19:47.385 [4516:12820:1005/101947.384:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:19:47.385 [4516:12820:1005/101947.385:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:19:47.385 [4516:12820:1005/101947.385:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:19:48.180 [4516:12820:1005/101948.180:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+10月 05, 2021 10:19:53.770 [4516:12820:1005/101953.770:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+10月 05, 2021 10:22:16.269 [4516:12820:1005/102216.268:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 05, 2021 10:27:23.498 [4516:12820:1005/102723.498:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+
+10月 17, 2021 22:31:05.356 NEW SESSION
+10月 17, 2021 22:31:05.357 [12768:5588:1017/223105.355:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+10月 17, 2021 22:31:05.357 [12768:5588:1017/223105.355:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+10月 17, 2021 22:31:05.357 [12768:5588:1017/223105.355:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+10月 17, 2021 22:31:05.358 [12768:5588:1017/223105.357:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+10月 17, 2021 22:31:05.373 [12768:8300:1017/223105.373:ERROR:device_event_log_impl.cc(214)] [22:31:05.373] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 连到系统上的设备没有发挥作用。 (0x1F)
+10月 17, 2021 22:31:05.373 [12768:8300:1017/223105.373:ERROR:device_event_log_impl.cc(214)] [22:31:05.373] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 连到系统上的设备没有发挥作用。 (0x1F)
+10月 17, 2021 22:31:26.422 [12768:14244:1017/223126.421:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 17, 2021 22:32:10.737 [12768:14244:1017/223210.736:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 17, 2021 22:33:11.623 [12768:14244:1017/223311.622:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 17, 2021 22:33:11.857 [12768:14244:1017/223311.856:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 17, 2021 22:33:13.44 [12768:14244:1017/223313.044:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 17, 2021 22:35:38.145 [12768:14244:1017/223538.144:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 17, 2021 22:35:38.427 [12768:14244:1017/223538.427:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 17, 2021 22:38:52.999 [12768:14244:1017/223852.998:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 17, 2021 22:38:53.248 [12768:14244:1017/223853.247:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 17, 2021 22:42:55.382 [12768:14244:1017/224255.381:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 17, 2021 22:42:55.635 [12768:14244:1017/224255.634:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 17, 2021 22:48:50.643 [12768:14244:1017/224850.642:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 17, 2021 22:48:50.826 [12768:14244:1017/224850.826:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+
+10月 19, 2021 10:09:31.944 NEW SESSION
+10月 19, 2021 10:09:31.944 [864:8332:1019/100931.940:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+10月 19, 2021 10:09:31.946 [864:8332:1019/100931.941:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+10月 19, 2021 10:09:31.947 [864:8332:1019/100931.941:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+10月 19, 2021 10:09:31.948 [864:8332:1019/100931.947:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+10月 19, 2021 10:09:31.978 [864:13604:1019/100931.977:ERROR:device_event_log_impl.cc(214)] [10:09:31.977] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 连到系统上的设备没有发挥作用。 (0x1F)
+10月 19, 2021 10:09:31.978 [864:13604:1019/100931.978:ERROR:device_event_log_impl.cc(214)] [10:09:31.977] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 连到系统上的设备没有发挥作用。 (0x1F)
+10月 19, 2021 10:09:53.44 [864:11304:1019/100953.043:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 19, 2021 10:10:37.291 [864:11304:1019/101037.290:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 19, 2021 10:11:38.474 [864:11304:1019/101138.474:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:11:38.582 [864:11304:1019/101138.581:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:11:45.278 [864:11304:1019/101145.277:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 19, 2021 10:13:33.573 [864:11304:1019/101333.572:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 19, 2021 10:14:12.315 [864:11304:1019/101412.314:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:14:12.658 [864:11304:1019/101412.657:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:17:02.369 [864:11304:1019/101702.368:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:17:02.620 [864:11304:1019/101702.619:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:17:42.466 [864:11304:1019/101742.465:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 19, 2021 10:20:49.209 [864:11304:1019/102049.208:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:20:51.29 [864:11304:1019/102051.028:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:25:29.287 [864:11304:1019/102529.286:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+10月 19, 2021 10:25:46.884 [864:11304:1019/102546.884:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:26:04.197 [864:11304:1019/102604.196:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:33:55.541 [864:11304:1019/103355.540:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:33:55.542 [864:13604:1019/103355.541:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+10月 19, 2021 10:34:13.220 [864:11304:1019/103413.219:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:40:35.643 [864:11304:1019/104035.642:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:43:06.966 [864:11304:1019/104306.965:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:46:02.821 [864:11304:1019/104602.820:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:46:05.147 [864:11304:1019/104605.147:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:47:40.420 [864:11304:1019/104740.419:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:48:33.474 [864:11304:1019/104833.472:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:50:00.332 [864:11304:1019/105000.331:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:54:04.927 [864:11304:1019/105404.926:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:54:05.164 [864:11304:1019/105405.163:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 10:58:10.134 [864:11304:1019/105810.132:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 11:02:11.564 [864:11304:1019/110211.563:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 11:02:11.566 [864:13604:1019/110211.564:ERROR:sharing_service.cc(210)] Device registration failed with transient error
+10月 19, 2021 11:06:11.12 [864:11304:1019/110611.012:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 11:14:18.704 [864:11304:1019/111418.702:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 11:16:51.402 [864:11304:1019/111651.401:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 11:19:41.09 [864:11304:1019/111941.008:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 11:22:24.748 [864:11304:1019/112224.747:ERROR:registration_request.cc(247)] Registration URL fetching failed.
+10月 19, 2021 11:28:21.922 [864:11304:1019/112821.920:ERROR:registration_request.cc(247)] Registration URL fetching failed.
