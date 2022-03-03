@@ -1,7 +1,7 @@
 package henu;
 
 import java.util.Scanner;
-
+import java.lang.Math;
 /*
  * 空常量null不能直接输出，否则会编译错误
  * 布尔常量true输出是true，false输出是false
@@ -20,6 +20,9 @@ public class hello {
 		for(int i=0;i<n;i++) {
 			System.out.println("你好,"+i);
 		}
+		System.out.println(Math.pow(4, 2));// Math.pow(double a,double b)表示幂函数
+		
+		
 		sc.close();
 	}
 }
