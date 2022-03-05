@@ -3,9 +3,9 @@ package henu;
 import java.util.Scanner;
 import java.lang.Math;
 /*
- * ¿Õ³£Á¿null²»ÄÜÖ±½ÓÊä³ö£¬·ñÔò»á±àÒë´íÎó
- * ²¼¶û³£Á¿trueÊä³öÊÇtrue£¬falseÊä³öÊÇfalse
- * ×Ö·û³£Á¿ÓÃµ¥ÒıºÅ''£¬×Ö·û´®³£Á¿Ê¹ÓÃË«ÒıºÅ""
+ * ï¿½Õ³ï¿½ï¿½ï¿½nullï¿½ï¿½ï¿½ï¿½Ö±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½trueï¿½ï¿½ï¿½ï¿½ï¿½trueï¿½ï¿½falseï¿½ï¿½ï¿½ï¿½ï¿½false
+ * ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ãµï¿½ï¿½ï¿½ï¿½ï¿½''ï¿½ï¿½ï¿½Ö·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½Ë«ï¿½ï¿½ï¿½ï¿½""
  * 
  * */
 public class hello {
@@ -15,12 +15,12 @@ public class hello {
 		System.out.println(false);
 		int n;
 		Scanner sc=new Scanner(System.in);
-		System.out.println("ÇëÊäÈën:");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½n:");
 		n = sc.nextInt();
 		for(int i=0;i<n;i++) {
-			System.out.println("ÄãºÃ,"+i);
+			System.out.println("ï¿½ï¿½ï¿½,"+i);
 		}
-		System.out.println(Math.pow(4, 2));// Math.pow(double a,double b)±íÊ¾Ãİº¯Êı
+		System.out.println(Math.pow(4, 2));// Math.pow(double a,double b)ï¿½ï¿½Ê¾ï¿½İºï¿½ï¿½ï¿½
 		
 		
 		sc.close();

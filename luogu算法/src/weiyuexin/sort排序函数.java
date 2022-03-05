@@ -1,5 +1,5 @@
 package weiyuexin;
-import java.util.Arrays;
+import java.util.Arrays;//需要导入Arrays包
 import java.util.Scanner;
 
 public class sort排序函数 {
@@ -8,7 +8,7 @@ public class sort排序函数 {
 		System.out.print("请输入数组元素个数:");
 		int n = sc.nextInt();
 		int[] array = new int[n];
-		
+
 		for(int i=0;i<n;i++) {
 			array[i] = sc.nextInt();
 		}
