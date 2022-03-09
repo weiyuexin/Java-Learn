@@ -7,9 +7,11 @@ public class ³Ë»ýÎ²Áã {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		BigInteger sum =sc.nextBigInteger();
+		BigInteger sum =new BigInteger("0");
 		while(sc.hasNextInt()) {
-			//sum=sum*sc.nextInt();
+			BigInteger x = sc.nextBigInteger();
+			sum = sum.multiply(x);
 		}
+		System.out.println(sum);
 	}
 }

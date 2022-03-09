@@ -1,6 +1,6 @@
 package 重要知识;
 
-import java.math.BigDecimal;
+import java.math.BigDecimal;//用于大的小数计算，要求精度时可以使用
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
