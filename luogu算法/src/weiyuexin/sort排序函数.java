@@ -12,7 +12,8 @@ public class sortÅÅĞòº¯Êı {
 		for(int i=0;i<n;i++) {
 			array[i] = sc.nextInt();
 		}
-		Arrays.sort(array); //ÉıĞòÅÅĞò
+		Arrays.sort(array);
+		//Arrays.sort(array,2,4); //ÉıĞòÅÅĞò
 		System.out.print("ÉıĞòÊä³ö:");
 		for(int i=0;i<n;i++) {
 			System.out.print(array[i]+" ");
