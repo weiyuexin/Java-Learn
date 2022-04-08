@@ -34,6 +34,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\Eclipse_WorkSpace\AcWing"/>
 			<item value="F:\Eclipse_WorkSpace\Java\StudentGradeSystem"/>
 			<item value="F:\Eclipse_WorkSpace\Java Web\实验\实验3"/>
 			<item value="F:\Eclipse_WorkSpace\Java Web\实验\实验2.2"/>
